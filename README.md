@@ -1,4 +1,6 @@
-## Installation
+# Front-end do Marketplace
+
+## Instalação
 
 ```sh
 npm install
@@ -10,15 +12,13 @@ npm run dev
 npm run build
 ```
 
-<br />
-
-## Project Structure
+## Estrutura do Projeto
 
 ```bash
 Marketplace-front-end/
 ├── assets/
 │   ├── styles/
-│   └── __Project Assests__
+│   └── __Ativos do Projeto__
 ├── Components/
 │   ├── Details/
 │   ├── Header/
@@ -41,11 +41,9 @@ Marketplace-front-end/
 ├── Plugins/
 ```
 
-<br />
+## Ambiente de Desenvolvimento
 
-## Dev enviroment:
-
-More information on what constitutes the enviroment:
+Mais informações sobre o ambiente:
 
 | Plugin        | README                                   |
 | ------------- | ---------------------------------------- |
@@ -53,4 +51,4 @@ More information on what constitutes the enviroment:
 | Vite          | [https://vitejs.dev/guide/]              |
 | AutoPrefixer  | [https://autoprefixer.github.io/]        |
 
-<br />
+OBS: este projeto requer a versão 18.20.5 do Node.js devido a uma dependência da biblioteca Knux.js. Essa versão específica do Node.js é necessária para evitar conflitos.
