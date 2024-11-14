@@ -1,4 +1,4 @@
-# Front-end do Marketplace
+# Marketplace Front-end
 
 ## Instalação
 
@@ -18,7 +18,7 @@ npm run build
 Marketplace-front-end/
 ├── assets/
 │   ├── styles/
-│   └── __Ativos do Projeto__
+│   └── __Project Assests__
 ├── Components/
 │   ├── Details/
 │   ├── Header/
@@ -38,10 +38,10 @@ Marketplace-front-end/
 │   │   ├── Contact.vue
 │   │   ├── Index.vue
 │   │   └── Products.vue
-├── Plugins/
+├── Plugins
 ```
 
-## Ambiente de Desenvolvimento
+## Dev environment
 
 Mais informações sobre o ambiente:
 
@@ -51,4 +51,4 @@ Mais informações sobre o ambiente:
 | Vite          | [https://vitejs.dev/guide/]              |
 | AutoPrefixer  | [https://autoprefixer.github.io/]        |
 
-OBS: este projeto requer a versão 18.20.5 do Node.js devido a uma dependência da biblioteca Knux.js. Essa versão específica do Node.js é necessária para evitar conflitos.
+OBS: este projeto requer a versão 18.20.5 do Node.js devido a uma dependência da biblioteca Nuxt.js. Essa versão específica do Node.js é necessária para evitar conflitos.
