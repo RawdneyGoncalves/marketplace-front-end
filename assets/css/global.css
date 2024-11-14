@@ -1,0 +1,14 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+.v-btn {
+  background-color: #FF5A5F;
+  color: white;
+}
+.v-btn:hover {
+  background-color: #FF3B4E;
+}
